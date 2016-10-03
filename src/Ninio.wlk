@@ -21,8 +21,11 @@ class Ninio {
 	}
 	method asustarAdulto(unAdulto)
 	{
-		
+		unAdulto.asustarse(self)
 	}
 	
+	method caramelos() {
+		return caramelos
+	}
 
 }
