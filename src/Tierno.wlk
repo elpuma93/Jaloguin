@@ -1,5 +1,4 @@
-import Traje.*
-class Tierno inherits Traje {
+object tierno{
 
 
 
