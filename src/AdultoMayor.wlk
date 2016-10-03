@@ -1,15 +1,7 @@
 import Adulto.*
+inherits Adulto.*
 
 class AdultoMayor {
-
-
-method niñosConMasDe15Caramelos(unNinio) {
-	if (unNinio)
-}
-
-method tolerancia() {
-	return 
-}
 
 method asustarse(unNinio) {
 	
