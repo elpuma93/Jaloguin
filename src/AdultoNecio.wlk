@@ -2,8 +2,8 @@ import Adulto.*
 
 class AdultoNecio {
 
-method asustarse(unNinio) {
-return false	
-}
+	method asustarse(unNinio) {
+		return false	
+	}
 
 }
