@@ -1,13 +1,14 @@
 import Adulto.*
-inherits Adulto.*
 
-class AdultoMayor {
 
-method asustarse(unNinio) {
+class AdultoMayor inherits Adulto {
+
+	override method asustarse(unNinio) {
 	
 	if (self.tolerancia() < unNinio.capacidadsusto())
 		unNinio.recibeCaramelos(self.tolerancia()/2)
 		
-}
+	}
 
 }
+
